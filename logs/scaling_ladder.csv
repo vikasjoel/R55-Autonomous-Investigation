@@ -1,0 +1,11 @@
+n,mode,variables,unique_clauses,status,time_seconds,notes
+6,single_block,2,16,UNSAT,0.0004,R(3,3)=6 sanity check
+18,single_block,9,208,UNSAT,0.007,R(4,4)=18 sanity check
+30,single_block,14,4724,SAT,0.283,
+35,single_block,17,9382,SAT,0.626,
+37,single_block,18,11934,SAT,0.851,
+39,single_block,19,14934,UNSAT,1.153,non-monotonic UNSAT pocket
+41,single_block,20,18468,SAT,1.476,
+42,single_block,21,20246,UNSAT,1.697,Exoo cliff
+43,single_block_Z43,21,(within dedup),UNSAT,8.23,gen 22 main result
+43,2block_21_22,44,207960,UNSAT,4.67,gen 24 main result (89.2% dedup)
