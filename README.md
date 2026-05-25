@@ -170,8 +170,6 @@ The deduplication step (`set(clauses)`) is what compresses 1.9M naive clauses do
 │   ├── gen_23_output.md            # 2-block Z₂₁ × Z₂₂ verdict
 │   ├── gen_24_output.md            # Refined 2-block + extrapolation
 │   └── scaling_ladder.csv          # Per-n SAT/UNSAT timing data
-└── docs/
-    └── methodology.md              # ThinkerWave agent framework overview
 ```
 
 ---
